@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://dtseto.github.io/csb-v9bzm0/static/js/main.992e4682.chunk.js",
+    "main.js.map": "https://dtseto.github.io/csb-v9bzm0/static/js/main.992e4682.chunk.js.map",
+    "runtime-main.js": "https://dtseto.github.io/csb-v9bzm0/static/js/runtime-main.f926fc83.js",
+    "runtime-main.js.map": "https://dtseto.github.io/csb-v9bzm0/static/js/runtime-main.f926fc83.js.map",
+    "static/js/2.5c8e7925.chunk.js": "https://dtseto.github.io/csb-v9bzm0/static/js/2.5c8e7925.chunk.js",
+    "static/js/2.5c8e7925.chunk.js.map": "https://dtseto.github.io/csb-v9bzm0/static/js/2.5c8e7925.chunk.js.map",
+    "index.html": "https://dtseto.github.io/csb-v9bzm0/index.html",
+    "precache-manifest.17fa447c51e463f59f72e3d4606662ea.js": "https://dtseto.github.io/csb-v9bzm0/precache-manifest.17fa447c51e463f59f72e3d4606662ea.js",
+    "service-worker.js": "https://dtseto.github.io/csb-v9bzm0/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f926fc83.js",
+    "static/js/2.5c8e7925.chunk.js",
+    "static/js/main.992e4682.chunk.js"
+  ]
+}
